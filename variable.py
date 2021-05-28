@@ -2,8 +2,8 @@
 
 # 애완동물 소개
 animal = "강아지"
-name = "연탄이"
-age = 4
+name = "뿌꾸"
+age = 10
 hobby = "산책"
 is_adult = age >= 3
 
